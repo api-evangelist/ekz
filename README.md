@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-EKZ is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://ekz.ch/
+EKZ (Elektrizitätswerk des Kantons Zürich) is a Swiss energy provider offering electricity, gas, solar, heat and e‑mobility solutions for residential and business customers. The company focuses on sustainable, climate‑friendly energy services, digital customer portals, and comprehensive support. EKZ operates nationwide in the Zurich canton, providing tariffs, installations, and energy consulting through its online platforms.
+
+**Areas:** Energy · Utilities · Switzerland · Renewable · CustomerPortal
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ekz.ch/)
+- [Blog](https://www.ekz.ch/fr/clients-professionnels/solutions-energetiques/blog/premiere-a-geneve.html)
+- [Status](https://status.ekz.ch/client-setup)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/ekz/](https://apis.io/providers/ekz/).
